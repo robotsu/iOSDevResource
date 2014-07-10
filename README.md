@@ -31,4 +31,5 @@ http://edgecasesshow.com
 A weekly podcast about (mostly Apple-related) software development by
 Andrew Pontious and Wolf Rentzsch.
 
-
+http://feeds.cocoapods.org
+This is the home of the new CocoaPods feed.
