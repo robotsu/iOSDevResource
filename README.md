@@ -4,9 +4,10 @@ iOSDevResource
 The Best Awesome iOS Development Resource List, Updating
 
 
-###Weekly Newsletter
+###Weekly Newsletter/Journals
 
 * [The Best of iOS Development, Delivered Weekly. Free.](https://iosdevweekly.com)
+* [NSHipster](http://nshipster.com) [Chinese Version](http://nshipster.cn) A journal of the overlooked bits in Objective-C, Swift, and Cocoa. Updated weekly.
 
 ###Edged Articles, Tutorials, Blogs and Feeds
 
