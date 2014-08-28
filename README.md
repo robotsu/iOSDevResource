@@ -15,6 +15,7 @@ The Best Awesome iOS Development Resource List, Updating
 * [Ray Wenderlich: Tutorials for iPhone / iOS Developers and Gamers.](http://www.raywenderlich.com)
 * [macdevelopertips.com: Mac developer:tips－Code, tips and tricks for developers working on a Mac.](http://macdevelopertips.com)
 * [maniacdev.com: iOS App Dev Libraries, Controls, Tutorials, Examples and Tools.](http://maniacdev.com)
+* [iOS8 Day-by-Day](http://www.shinobicontrols.com/iOS8DayByDay) is a blog series written by Sam Davies, covering all that an iOS developer needs to know about the new technologies and APIs available to them in iOS8. That page will be an auto-updating index of all of the posts so far, so you can ensure that you haven't missed a day.
 
 ###Podcast
 
